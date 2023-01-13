@@ -1,0 +1,4 @@
+# SISTEM-MONITORING-KELEMBABAN-DAN-SUHU-BERBASIS-INTERNET-OF-THINGS
+![IMG_20221207_233202](https://user-images.githubusercontent.com/121375757/212269266-56c24d2b-f57b-4615-883d-06cd8d12e616.jpg)
+
+Alat ini menggunakan sensor DHT11 untuk membaca kelembaban dan suhu pada ruangan. Alat ini menggunakan Sensor DHT11 sebagai input, ESP8266 sebagai pemroses, dan Led merah, Led biru, LCD, relay, humidifier serta kipas DC 12V sebagai luaran. Cara kerja alat ini adalah ketika suhu diatas batas normal atau kelembaban dibawah batas normal maka Led merah menyala, Buzzer menyala kencang sebagai indikator peringatan, kemudian pendingin akan menyala untuk membuat suhu atau kelembaban menjadi normal kembali. Apabila suhu atau kelembaban normal, maka Led biru menyala dan Buzzer menyala bip. LCD menampilkan kondisi suhu atau kelembaban baik ketika kondisi normal maupun kondisi darurat. Kelembaban dan suhu dapat dipantau juga melalui aplikasi Kodular.
